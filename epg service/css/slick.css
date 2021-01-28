@@ -1,0 +1,87 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
+/* Слайдер */
+.slick-slider {
+}
+/* Слайдер запущен */
+.slick-slider.slick-initialized {
+}
+/* Слайдер с точками */
+.slick-slider.slick-dotted {
+}
+/* Ограничивающая оболочка */
+.slick-list {
+}
+/* Лента слайдов */
+.slick-track {
+   display: -webkit-box;
+   display: -ms-flexbox;
+   display: flex;
+   -webkit-box-align: start;
+       -ms-flex-align: start;
+           align-items: flex-start;
+
+}
+/* Слайд */
+.slick-slide {
+   display: -webkit-box !important;
+   display: -ms-flexbox !important;
+   display: flex !important;
+}
+/* Слайд активный (показывается) */
+.slick-slide.slick-active {
+}
+/* Слайд основной */
+.slick-slide.slick-current {
+}
+/* Слайд по центру */
+.slick-slide.slick-center {
+}
+/* Клонированный слайд */
+.slick-slide.slick-cloned {
+}
+/* Стрелка */
+.slick-arrow {
+}
+/* Стрелка влево */
+.slick-arrow.slick-prev {
+}
+/* Стрелка вправо */
+.slick-arrow.slick-next {
+}
+/* Стрелка не активная */
+.slick-arrow.slick-disabled {
+}
+/* Точки (булиты) */
+.slick-dots {
+}
+.slick-dots li {
+}
+/* Активная точка */
+.slick-dots li.slick-active {
+}
+/* Элемент точки */
+.slick-dots li button {
+}
+
+/* мой слайдер */
+
+.slick-slide {
+
+}
+
+.reviews__item.slick-slide {
+   opacity: 0.4;
+}
+.reviews__item.slick-center {
+   opacity: 1;
+}
+.reviews__item.slick-slide.slick-current.slick-active.slick-center {
+}
+.slick-center {
+}
